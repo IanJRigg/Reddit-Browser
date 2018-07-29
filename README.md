@@ -27,9 +27,9 @@ Finally, you must specify the term to search for, and the subreddit to find them
 
 ## TODO:
 1. [DONE] Get the configuration mechanism working
-2. Register a Reddit Bot
-3. Get read/write access to the database working
-4. Start populating the bot
+2. [DONE] Register a Reddit Bot
+3. [DONE] Get access to the database
+4. [DONE] Start reading with the bot
 5. Ensure that the database is getting populated
 6. Initialize the express project
 7. Create the pagination SQL
