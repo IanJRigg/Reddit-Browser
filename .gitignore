@@ -2,3 +2,4 @@ secrets.cfg
 database.db
 
 api/node_modules
+api/package*
