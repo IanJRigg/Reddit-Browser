@@ -26,7 +26,7 @@ Several parameters are required for the Bot to work correctly with Reddit. Those
 Finally, you must specify the term to search for, and the subreddit to find them in.
 
 ## TODO:
-1. Get the configuration mechanism working
+1. [DONE] Get the configuration mechanism working
 2. Register a Reddit Bot
 3. Get read/write access to the database working
 4. Start populating the bot
