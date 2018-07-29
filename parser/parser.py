@@ -17,7 +17,7 @@ insert_post_command = """ INSERT INTO posts(post) VALUES(?);"""
 
 def parse_config_file():
     config = configparser.ConfigParser()
-    config.read("secrets.cfg")
+    config.read("../secrets.cfg")
     return config
 
 
